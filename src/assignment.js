@@ -43,7 +43,7 @@ function countEvenNumbers(arrayOfNumbers) {
     return arrayOfNumbers.length;
 }
 console.log(countEvenNumbers(arrayOfNumbers))
-// assignment.countEvenNumbers = countEvenNumbers;
+
 
 /**
  * Challenge - 3
